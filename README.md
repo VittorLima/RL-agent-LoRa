@@ -1,0 +1,3 @@
+# RL-agent-LoRa
+O trabalho propõe um método inteligente baseado em modelos de aprendizado por reforço para escalonar recursos e atuar na modulação do protocolo LoRa, de forma que a conexão multiusuário seja otimizada.
+Ao observar os impactos que a modulação CSS influência na eficiência de uma rede LoRa, foi proposto a aplicação do sistema inteligente capaz de intermediar e otimizar o processo. Com a implementação da metodologia de treinamento desenvolvida neste trabalho, conclui-se que o agente treinado por aprendizado por reforço tende a selecionar os melhores fatores de espalhamento espectral (SF) em um processo de comunicação.
